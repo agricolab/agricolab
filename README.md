@@ -2,7 +2,7 @@
 
 I am working as a Researcher in the [Institute for Neurotechnology and Neuromodulation](https://www.medizin.uni-tuebingen.de/go/neuromodulation) at the University Hospital Tübingen.
 
-There we research brain stimulation for the treatment of neurological disorders (e.g. Parkinson’s, Stroke). My daily work consists of applying for grants, setting up experiments, supervising students, conducting data analysis, and writing papers. We are mainly performing experiments with EEG, and a multitude of neurostimulation techniques, e.g. TMS, TCS and PES, but also have division for neurorobotics for rehabilitation.
+There we research brain stimulation for the treatment of neurological disorders (e.g. Parkinson’s, Stroke). My daily work consists of supervising students, conducting data analysis, setting up experiments, applying for grants, and writing papers. We are mainly performing experiments with EEG, and a multitude of neurostimulation techniques, e.g. TMS, TCS and PES, but also have division for neurorobotics for rehabilitation.
 
 ### What i do on github
 
