@@ -1,6 +1,6 @@
 ### About me
 
-I am working as a R&D Specialist at [neuroConn](https://www.neurocaregroup.com/de/neuroconn-technologie), where we innovate and develop medical devices. I help with my background in translational neuroscience and professional software engineering.
+I am working as a R&D Specialist at [neuroConn](https://www.neurocaregroup.com/de/neuroconn-technologie), where we innovate and develop medical devices. I support the team with my background in translational neuroscience and professional software engineering.
 
 ### What i do on github
 
